@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "V:\\_Github\\Windows9xClassicWpf\\Example\\WpfApp\\WpfApp.csproj": {}
+  },
+  "projects": {
+    "V:\\_Github\\Windows9xClassicWpf\\Example\\WpfApp\\WpfApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "V:\\_Github\\Windows9xClassicWpf\\Example\\WpfApp\\WpfApp.csproj",
+        "projectName": "WpfApp",
+        "projectPath": "V:\\_Github\\Windows9xClassicWpf\\Example\\WpfApp\\WpfApp.csproj",
+        "packagesPath": "C:\\Users\\JerryAJ\\.nuget\\packages\\",
+        "outputPath": "V:\\_Github\\Windows9xClassicWpf\\Example\\WpfApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JerryAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "V:\\_Github\\Windows9xClassicWpf\\Windows9xClassic\\Windows9xClassic.csproj": {
+                "projectPath": "V:\\_Github\\Windows9xClassicWpf\\Windows9xClassic\\Windows9xClassic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "V:\\_Github\\Windows9xClassicWpf\\Windows9xClassic\\Windows9xClassic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "V:\\_Github\\Windows9xClassicWpf\\Windows9xClassic\\Windows9xClassic.csproj",
+        "projectName": "Windows9xClassic",
+        "projectPath": "V:\\_Github\\Windows9xClassicWpf\\Windows9xClassic\\Windows9xClassic.csproj",
+        "packagesPath": "C:\\Users\\JerryAJ\\.nuget\\packages\\",
+        "outputPath": "V:\\_Github\\Windows9xClassicWpf\\Windows9xClassic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JerryAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
