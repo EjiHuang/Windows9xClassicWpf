@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Windows9xClassic</id>
+    <version>1.0.0</version>
+    <authors>Windows9xClassic</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="V:\_Github\Windows9xClassicWpf\Windows9xClassic\bin\Debug\netcoreapp3.1\Windows9xClassic.dll" target="lib\netcoreapp3.1\Windows9xClassic.dll" />
+  </files>
+</package>
