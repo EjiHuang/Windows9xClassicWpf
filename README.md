@@ -5,7 +5,7 @@ The windows 9x classic window style for wpf.
 <img src="https://github.com/EjiHuang/Windows9xClassicWpf/blob/master/Screenshots/DemoScreenshot.bmp"/>
 
 # Instruction manual
-Add project reference which is Windows9xClassic.
+Add project reference which is Windows9xClassic. </br>
 Edit your project's App.xaml like this:
 ```xml
 <Application.Resources>
